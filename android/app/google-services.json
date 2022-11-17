@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88625758410",
+    "project_id": "imc-sp",
+    "storage_bucket": "imc-sp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88625758410:android:7e442a329f68151c2e7433",
+        "android_client_info": {
+          "package_name": "com.example.imc_sp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88625758410-nim02edepivt63o7va9ta0mg17ecatlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxEqfxD9A6CTI-ZFdLnzvhk1tcCktGkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88625758410-nim02edepivt63o7va9ta0mg17ecatlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
